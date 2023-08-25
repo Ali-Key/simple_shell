@@ -1,2 +1,1 @@
-# simple_shell
-simple_shell basics building C programming language with alx cohort 16
+# simple_shell simple_shell basics building C programming language with Alx Cohort 16
